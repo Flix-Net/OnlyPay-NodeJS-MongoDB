@@ -1,4 +1,4 @@
-# Olymp.Drive-React-JS
+# OnlyPay-NodeJS-MongoDB
 
 В проекте реализовано:
 - Техническое задание;
